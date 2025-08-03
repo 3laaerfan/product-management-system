@@ -39,7 +39,7 @@ A simple and responsive CRUD (Create, Read, Update, Delete) application built us
 
 1. Clone the repository or download the files:
    ```bash
-   git clone https://github.com/your-username/product-management-system.git
+   git clone https://github.com/3laaerfan/product-management-system.git
    ```
 2. Open `index.html` in your browser.
 3. Start managing your products!
