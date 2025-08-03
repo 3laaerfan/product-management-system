@@ -53,7 +53,8 @@ A simple and responsive CRUD (Create, Read, Update, Delete) application built us
  ┣ 📁 CSS
  ┃ ┗ 📄 style.css
  ┃ 📁 Images
- ┃ ┗ 📄 screenshoot.jpg
+ ┃ ┗ 📄 dark.png
+ ┃ ┗ 📄 light.png
  ┣ 📁 Script
  ┃ ┗ 📄 main.js
  ┣ 📄 index.html
